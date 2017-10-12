@@ -4,9 +4,11 @@ This is a lemmatizer for Bulgarian, Czech, English, Estonian, French, German, Hu
 
 The file directory structure is as follows:
 
-lemmagen               - Lemmagen Python bindings
+```
+lemmagen/              - Lemmagen Python bindings
 lemmagen/dictionaries/ - Binary dictionaries for languages supported
 src/                   - Lemmatizer C++ source
+```
 
 # Contributors:
 
